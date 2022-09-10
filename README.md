@@ -2,9 +2,13 @@
 Analyzing Supermarket Sales data  and visualizing it in Power bi 
 
 ■sales Analysis:
+
 ●Data Cleaning With power query
+
 ● Data reprocessing with power query
+
 ●Data Visualization With power bi
+
 
 ■Output:
 
