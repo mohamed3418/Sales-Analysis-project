@@ -13,11 +13,19 @@ Analyzing Supermarket Sales data  and visualizing it in Power bi
 ■Output:
 
 • Profit by each category
+
 • sales by year
+
 • Profit by year
+
 • Profit by region
+
 • Sales by Ship mode
+
 • Profit by state
+
 • Total sales, quantity, profit per segment, and category
+
 • total sales for each product
+
 
